@@ -113,7 +113,7 @@ public class JuniperGreen {
 						if (results.size() == 0)
 							return k;
 						try (ExecutorService service = Executors.newFixedThreadPool(max)) {
-							for (Future<Integer> result : service.invokeAll(results)) {
+							for (Future<Integer> result : service.invokeAll(results)) {//Methode die sobald ein Thread -1 zurückgibt alle anderen Threads stopped und -1 weiter zurückgibt
 								int jg = result.get();
 								if (player) {
 									if (jg == 1)
