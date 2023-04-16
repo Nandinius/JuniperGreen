@@ -1,0 +1,2 @@
+Mit 22 als start hat mann immer in 24 Moves gewonnen. (Optimaler Weg 22(ich) 44(g) 4(ich) 16(g) 32(ich) 8(g) 40(ich) 20(g) 10(ich) 30(g) 15(ich) 3(g) 6(ich) 18(g) 36(ich) 12(g) 24(ich) 2(g) 26(ich) 13(g) 39(ich) 1(g) 10001(ich) -1(g) )
+Mit 26 als start hat mann immer in 22 Moves gewonnen. (Optimaler Weg 26(ich) 2(g) 4(ich) 16(g) 32(ich) 8(g) 40(ich) 20(g) 10(ich) 30(g) 15(ich) 3(g) 6(ich) 24(g) 12(ich) 36(g) 18(ich) 9(g) 27(ich) 1(g) 10001(ich) -1(g) )
